@@ -1,7 +1,7 @@
-.bold {
-  font-weight: bold;
+.large-text {
+  font-size: 30px;   
 }
 
-.italics {
-  font-style: italic;
+.colored-text {
+  color: blue;
 }
